@@ -1,0 +1,18 @@
+# Virtual Environments
+myenv/
+env/
+venv/
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+indexed_cache.json
+
+# Environment variables (keep secrets safe!)
+.env
+
+# Streamlit specific
+.streamlit/
+
+# OS specific
+.DS_Store

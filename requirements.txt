@@ -1,0 +1,10 @@
+streamlit>=1.26.1
+pandas>=2.1.0
+pdfplumber>=0.10.3
+langchain>=0.0.331
+langchain-community>=0.0.349
+langchain-google-genai>=0.0.15
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+sentence-transformers>=2.2.2
+python-docx>=1.1.0
